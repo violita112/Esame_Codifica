@@ -1,0 +1,301 @@
+            <zone ulx="1550" uly="3181" lrx="2008" lry="3200" xml:id="pag18_line9"/>
+            <zone ulx="1042" uly="3127" lrx="2011" lry="3199" xml:id="pag18_line10"/>
+            <zone ulx="474" uly="3047" lrx="2033" lry="3166" xml:id="pag18_line11"/>
+            <zone ulx="461" uly="2946" lrx="1988" lry="3065" xml:id="pag18_line12"/>
+            <zone ulx="42" uly="2830" lrx="2010" lry="2992" xml:id="pag18_line13"/>
+            <zone ulx="454" uly="2730" lrx="2008" lry="2875" xml:id="pag18_line14"/>
+            <zone ulx="72" uly="2616" lrx="2012" lry="2762" xml:id="pag18_line15"/>
+            <zone ulx="430" uly="2530" lrx="2006" lry="2664" xml:id="pag18_line16"/>
+            <zone ulx="211" uly="2428" lrx="2009" lry="2572" xml:id="pag18_line17"/>
+            <zone ulx="415" uly="2296" lrx="2017" lry="2443" xml:id="pag18_line18"/>
+            <zone ulx="415" uly="2183" lrx="2012" lry="2341" xml:id="pag18_line19"/>
+            <zone ulx="594" uly="2058" lrx="1993" lry="2216" xml:id="pag18_line20"/>
+            <zone ulx="407" uly="2016" lrx="992" lry="2083" xml:id="pag18_line21"/>
+            <zone ulx="424" uly="1842" lrx="2022" lry="2003" xml:id="pag18_line22"/>
+            <zone ulx="425" uly="1750" lrx="2006" lry="1900" xml:id="pag18_line23"/>
+            <zone ulx="410" uly="1645" lrx="2029" lry="1793" xml:id="pag18_line24"/>
+            <zone ulx="425" uly="1519" lrx="2028" lry="1681" xml:id="pag18_line25"/>
+            <zone ulx="638" uly="1418" lrx="2022" lry="1552" xml:id="pag18_line26"/>
+            <zone ulx="194" uly="1344" lrx="2021" lry="1531" xml:id="pag18_line27"/>
+            <zone ulx="403" uly="1280" lrx="2018" lry="1435" xml:id="pag18_line28"/>
+            <zone ulx="444" uly="1188" lrx="2008" lry="1336" xml:id="pag18_line29"/>
+            <zone ulx="442" uly="1094" lrx="2005" lry="1232" xml:id="pag18_line30"/>
+            <zone ulx="431" uly="988" lrx="1981" lry="1141" xml:id="pag18_line31"/> 
+
+        <surface>
+            <graphic url='pag18_retro.jpg' width='2031.6px' height='3203.6px'/>
+            <zone ulx="4" uly="4" lrx="2027" lry="3202" />
+        </surface>
+
+         <ab type="pericope" xml:id="pag_18_per_3" n="3"> qu’il n’est donc pas <choice><orig><abbr resp="#FDS" type="superscription">1</abbr></orig><reg resp="#EF"><expan>un</expan></reg></choice>
+                            <lb xml:id="pag_18_line_9" n="2" facs="#pag18_line9"/>
+                                <term ref="#car">caractère</term><emph rend="underline"><term ref="#dist"> distinctif</term></emph>.
+                        </ab>
+
+                        <ab type="pericope" xml:id="pag_18_per_4" n="4"> Et ainsi de suite : il n’y
+                            <lb xml:id="pag_18_line_10" n="4" facs="#pag18_line10"/>
+                                aura jamais un <term ref="#car">caractère</term> quelconque qui
+                            <lb xml:id="pag_18_line_11" n="5" facs="#pag18_line11"/> 
+                                se trouve coïncider dans son <term ref="#agéo">aire géogra- 
+                            <lb xml:id="pag_18_line_12" n="6" facs="#pag18_line12"/>      
+                                phique</term> avec <choice><orig><abbr resp="#FDS" type="superscription">1</abbr></orig><reg resp="#EF"><expan>un</expan></reg></choice> autre, l’un relie la <name type="place">Savoie</name> avec <name type="place">Vaud</name>, 
+                            <lb xml:id="pag_18_line_13" n="7" facs="#pag18_line13"/> 
+                                l’autre <choice><orig><abbr resp="#FDS" type="superscription">1</abbr></orig><reg resp="#EF"><expan>une</expan></reg></choice> partie de la <name type="place">Savoie</name> avec <choice><orig><abbr resp="#FDS" type="superscription">1</abbr></orig><reg resp="#EF"><expan>une</expan></reg></choice> partie du <name type="place">Valais</name>, le <choice><orig><abbr resp="#FDS" type="superscription">3e</abbr></orig><reg resp="#EF"><expan>troisième</expan></reg></choice> une...
+                        </ab>
+
+                        <ab type="pericope" xml:id="pag_18_per_5" n="5">
+                            <lb xml:id="pag_18_line_14" n="14" facs="#pag18_line14"/> 
+                                On arrivera donc enfin à comprendre
+                            <lb xml:id="pag_18_line_15" n="15" facs="#pag18_line15"/> 
+                                que l’<term ref="#agéo">aire géographique</term> <emph rend="underline"><term ref="#phén">des phénomènes</term></emph> peut
+                            <lb xml:id="pag_18_line_16" n="16" facs="#pag18_line16"/> 
+                                <term ref="#parfait">parfaitement</term>, elle, être tracée sur la <term ref="#carte">carte</term>,
+                            <lb xml:id="pag_18_line_17" n="17" facs="#pag18_line17"/> 
+                                mais qu’entreprendre de <term ref="#distingue">distinguer</term> des
+                            <lb xml:id="pag_18_line_18" n="18" facs="#pag18_line18"/>
+                                <term ref="#udialect">unités dialectales</term> est <term ref ="abs">absolument</term><term ref="#chim"> chimérique</term> et
+                            <lb xml:id="pag_18_line_19" n="2" facs="#pag18_line19"/> 
+                            <del rend="overtstrike">et <gap reason="illegible" unit="word" quantity="1"></gap></del> <term ref="#vain">vain.</term>
+                        </ab>
+
+                        <ab type="pericope" xml:id="pag_18_per_6" n="6">
+                            <lb xml:id="pag_18_line_20" n="18" facs="#pag18_line20"/> 
+                                Chaque <del rend="overstrike">localitè</del> <add hand="#FDS" place="above"><term ref="#région">région</term></add> se trouve placée
+                            <lb xml:id="pag_18_line_21" n="18" facs="#pag18_line21"/> 
+                                sur le parcours d'<choice><orig><abbr resp="#FDS" type="superscription">1</abbr></orig><reg resp="#EF"><expan>une</expan></reg></choice> <choice><abbr resp="FDS" type ="superscription">cert<am rend="underline">n</am></abbr><reg resp="#EF"><expan>certain</expan></reg><expan><ex>ain</ex></expan></choice> nombre de  
+                            <lb xml:id="pag_18_line_22" n="18" facs="#pag18_line22"/>
+                                <term ref="#phénling">phénomènes linguistiques</term>, <del rend="overtstrike"><gap reason="illegible" unit="word" quantity="1"></gap></del> lesquels ont chacun
+                            <lb xml:id="pag_18_line_23" n="18" facs="#pag18_line23"/>
+                                leurs <del rend="overstrike">un</del> parcours <del rend="overtstrike"><gap reason="illegible" unit="word" quantity="1"></gap></del><add hand="#FDS" place="above"><term ref="#det">déterminés</term></add>;
+                        </ab>
+
+                        <ab type="pericope" xml:id="pag_18_per_7" n="7"> la somme des
+                            <lb xml:id="pag_18_line_24" n="18" facs="#pag18_line24"/>
+                                <term ref="#car">caractères</term> qui <term ref="#res">résulte</term> pour chaque <del rend="overtstrike">localitè</del>
+                            <lb xml:id="pag_18_line_25" n="18" facs="#pag18_line25"/>
+                                <add hand="#FDS" place="margin"><term ref="#région">région</term></add> de la superposition <term ref="#acc">accidentelle</term> de tel et
+                            <lb xml:id="pag_18_line_26" n="18" facs="#pag18_line26"/>
+                                tel <del rend="overtstrike"><unclear reason="illegible">care</unclear></del> phénomène est ce qui constitue<del rend="overtstrike">le</del>,
+                            <lb xml:id="pag_18_line_27" n="18" facs="#pag18_line27"/>
+                                si l’on veut, le <term ref="#dialecte">dialecte</term> de cette <del rend="overtstrike">localitè<gap reason="illegible" unit="word" quantity="2"></gap></del> <term ref="#région">région</term>.
+                        </ab>
+
+                        <ab type="pericope" xml:id="pag_18_per_8" n="8">
+                            <lb xml:id="pag_18_line_28" n="18" facs="#pag18_line28"/>
+                                Mais il est impossible de trouver <choice><orig><abbr resp="#FDS" type="superscription">1</abbr></orig><reg resp="#EF"><expan>un</expan></reg></choice> <term ref="#car">caractère</term>
+                            <lb xml:id="pag_18_line_30" n="18" facs="#pag18_line29"/>
+                                qui <del rend="overtstrike"><gap reason="illegible" unit="word" quantity="2"></gap></del> permette de <term ref="#del">délimiter</term> ce <term ref="#dialecte">dialecte</term>
+                            <lb xml:id="pag_18_line_31" n="18" facs="#pag18_line30"/>
+                                par rapport à <choice><orig><abbr resp="#FDS" type="superscription">tt</abbr></orig><reg resp="#EF"><expan>tout</expan></reg></choice> autre - à moins
+                            <lb xml:id="pag_18_line_32" n="18" facs="#pag18_line31"/>
+                                de prendre un seul village.
+                        </ab>
+
+
+                        <ab corresp="#pag_18_per_3" n="3">
+                            e dunque esso non è un 
+                            carattere <hi rend="italic">distintivo</hi>.
+                        </ab>
+
+                        <ab corresp="#pag_18_per_4" n="4">
+                            E così di seguito: non si 
+                            avrà mai un carattere qualsiasi che 
+                            si trova coincidere nella sua area geografica 
+                            con un altro, l’uno collega la Savoia con Vaud, 
+                            l’altro una parte della Savoia con una parte del Vallese, il terzo una [ ].>
+                        </ab>
+
+                        <ab corresp="#pag_18_per_5" n="5">
+                            Si giungerà dunque infine a capire 
+                            che l’area geografica <hi rend="italic">dei fenomeni</hi> può 
+                            perfettamente, come tale, essere tracciata sulla carta, 
+                            ma che intraprendere la distinzione di 
+                            unità dialettali è assolutamente <distinct>chimerico</distinct> e 
+                            vano.
+                        </ab>
+
+                        <ab corresp="#pag_18_per_6" n="6">
+                            Ogni regione si trova posta 
+                            sul percorso di un certo numero di 
+                            fenomeni linguistici, i quali hanno ognuno <hi rend="italic">
+                            il proprio percorso determinato</hi>;
+                        </ab>
+
+                        <ab corresp="#pag_18_per_7" n="7">
+                            la somma dei 
+                            caratteri che risulta per ogni 
+                            regione dalla sovrapposizione accidentale di questo e 
+                            quest’altro fenomeno è ciò che costituisce, 
+                            se si vuole, il dialetto di questa regione.
+                        </ab>
+
+                        <ab corresp="#pag_18_per_8" n="8">
+                            Ma è impossibile trovare un carattere 
+                            che permetta di delimitare questo dialetto 
+                            in rapporto a ogni altro – a meno 
+                            di prendere un solo paesino.
+                        </ab>
+
+
+
+                        <label>
+                        <term xml:id="agéo" xml:lang="fr">Aire géographique</term>
+                        <term ref="#agéo" xml:lang="it">Area geografica</term>
+                    </label>
+                    <item>
+                        <gloss target="#agéo" xml:lang="it" source="https://it.wikipedia.org/wiki/Area_geografica">
+                            Un'area geografica o area territoriale è una porzione continua della superficie terrestre la cui estensione è caratterizzata da un'ampiezza non inferiore a qualche chilometro quadrato.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="savoie" xml:lang="fr">Savoie</term>
+                        <term ref="#savoie" xml:lang="it">Savoia</term>
+                    </label>
+                    <item>
+                        <gloss target="#savoie" xml:lang="it" source="https://www.treccani.it/enciclopedia/savoia_res-4a00ead8-edbd-11df-9962-d5ce3506d72e/">
+                            Regione storica delle Alpi Occidentali, politicamente appartenente alla Francia e confinante con l’Italia e la Svizzera.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="vaud" xml:lang="fr">Vaud</term>
+                        <term ref="#vaud" xml:lang="it">Vaud</term>
+                    </label>
+                    <item>
+                        <gloss target="#vaud" xml:lang="it" source="https://www.treccani.it/enciclopedia/vaud/">
+                            Cantone della Svizzera occidentale (3212 km2 con 688.245 ab. nel 2009), compreso tra il Giura a SO e N, le Alpi Bernesi a E, il Lago di Ginevra a S. Capoluogo Losanna.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="valais" xml:lang="fr">Valais</term>
+                        <term ref="#valais" xml:lang="it">Vallese</term>
+                    </label>
+                    <item>
+                        <gloss target="#valais" xml:lang="it" source="https://www.treccani.it/enciclopedia/vallese/">
+                            Cantone della Svizzera meridionale (5224 km2 con 298.580 ab. nel 2008); capoluogo Sion.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="phén" xml:lang="fr">Phénomènes</term>
+                        <term ref="#phén" xml:lang="it">Fenomeni</term>
+                    </label>
+                    <item>
+                        <gloss target="#phén" xml:lang="it" source="https://it.wikipedia.org/wiki/Fenomeno">
+                            Il termine fenomeno (dal greco antico: φαινόμενον, fainòmenon, «che appare») è riferito a tutto quello che si presenta come oggettivamente costituito all'osservatore che quindi lo può cogliere attraverso l'apparato sensibile.
+                        </gloss>
+                    </item>
+            
+                    
+                    <label>
+                        <term xml:id="distingue" xml:lang="fr">Distinguer</term>
+                        <term ref="#distingue" xml:lang="it">Distinguere</term>
+                    </label>
+                    <item>
+                        <gloss target="#distingue" xml:lang="it" source="https://www.treccani.it/vocabolario/distinguere/">
+                            Riconoscere diversi fra loro due o più oggetti, avvertendo, con i sensi e con l’intelletto, la differenza che è tra essi:
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="udialect" xml:lang="fr">Unités dialectales</term>
+                        <term ref="#udialect" xml:lang="it">Unità dialettale</term>
+                    </label>
+                    <item>
+                        <gloss target="#udialect" xml:lang="it" source="https://www.treccani.it/vocabolario/dialetto/">
+                             Il dialetto è un sistema linguistico adoperato in un ambito geografico limitato, che non ha raggiunto o che ha perduto diffusione e prestigio di fronte a un altro sistema linguistico diventato dominante e riconosciuto come ufficiale, cioè la lingua nazionale.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="abs" xml:lang="fr">Absolutment</term>
+                        <term ref="#abs" xml:lang="it">Assolutamente </term>
+                    </label>
+                    <item>
+                        <gloss target="#abs" xml:lang="it" source="https://www.treccani.it/vocabolario/assolutamente/">
+                            Decisamente, necessariamente, in ogni modo
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="chim" xml:lang="fr">Chimérique</term>
+                        <term ref="#chim" xml:lang="it">Chimerico </term>
+                    </label>
+                    <item>
+                        <gloss target="#chim" xml:lang="it" source="https://www.treccani.it/vocabolario/chimerico/">
+                            Che ha natura di chimera, fantastico, illusorio.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="vain" xml:lang="fr">Vain</term>
+                        <term ref="#vain" xml:lang="it">Vano</term>
+                    </label>
+                    <item>
+                        <gloss target="#vain" xml:lang="it" source="https://www.treccani.it/vocabolario/vano/">
+                             Privo di corpo, di consistenza materiale.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="région" xml:lang="fr">Région</term>
+                        <term ref="#région" xml:lang="it">Regione </term>
+                    </label>
+                    <item>
+                        <gloss target="#région" xml:lang="it" source="https://www.treccani.it/vocabolario/regione/">
+                            Ampia parte della superficie terrestre, distinta per caratteri particolari (geografici, storici, antropici) che ne fanno un’unità bene individuata rispetto alle regioni vicine o all’insieme che la comprende.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="phénling" xml:lang="fr">Phénomènes linguistiques</term>
+                        <term ref="#phénling" xml:lang="it">Fenomeni linguistici</term>
+                    </label>
+                    <item>
+                        <gloss target="#phénling" xml:lang="it" source="https://www.sololibri.net/Linguistica-cos-e-e-cosa-studia">
+                            Una lingua (o un fenomeno linguistico) possono essere studiati nel loro mutare nel tempo (in diacronia), oppure in un preciso momento storico (sincronia).
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="det" xml:lang="fr">Détermines</term>
+                        <term ref="#det" xml:lang="it">Determinato</term>
+                    </label>
+                    <item>
+                        <gloss target="#det" xml:lang="it" source="https://www.treccani.it/vocabolario/determinato/">
+                            Di cosa il cui aspetto o i cui caratteri siano definiti e precisi.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="res" xml:lang="fr">Résulte</term>
+                        <term ref="#res" xml:lang="it">Risulta</term>
+                    </label>
+                    <item>
+                        <gloss target="#res" xml:lang="it" source="https://www.treccani.it/vocabolario/risulta/">
+                            Il fatto di risultare, di derivare o provenire.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="acc" xml:lang="fr">Accidentelle</term>
+                        <term ref="#acc" xml:lang="it">Accidentale</term>
+                    </label>
+                    <item>
+                        <gloss target="#acc" xml:lang="it" source="https://www.treccani.it/vocabolario/accidentale/">
+                            Che accade per caso, fortuito, casuale.
+                        </gloss>
+                    </item>
+
+                    <label>
+                        <term xml:id="del" xml:lang="fr">Délimiter</term>
+                        <term ref="#del" xml:lang="it">Delimitato</term>
+                    </label>
+                    <item>
+                        <gloss target="#del" xml:lang="it" source="https://www.treccani.it/vocabolario/delimitare/">
+                            Limitare, circoscrivere; segnare il limite, i confini.
+                        </gloss>
+                    </item>
+
